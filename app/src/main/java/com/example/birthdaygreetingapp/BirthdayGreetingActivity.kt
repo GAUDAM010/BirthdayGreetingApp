@@ -1,4 +1,3 @@
-// BirthdayGreetingActivity.kt
 package com.example.birthdaygreetingapp
 
 import androidx.appcompat.app.AppCompatActivity

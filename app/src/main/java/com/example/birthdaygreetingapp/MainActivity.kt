@@ -1,4 +1,3 @@
-// MainActivity.kt
 package com.example.birthdaygreetingapp
 
 import android.content.Intent
